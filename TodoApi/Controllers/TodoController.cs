@@ -47,7 +47,6 @@ namespace TodoApi.Controllers
             return todoItem;
         }
         
-        //тут я хз
         [HttpGet("complete")]
         public async Task<ActionResult<IEnumerable<TodoItem>>> GetCompleteTodoItems()
         {

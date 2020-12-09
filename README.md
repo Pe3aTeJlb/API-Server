@@ -10,7 +10,7 @@ This project was written using this  [guide](https://docs.microsoft.com/en-us/as
  - ASP.NET CORE
 
 # API Examples
-You can import request collection via Postman (import button) by [link](https://www.getpostman.com/collections/a4077e650424ffa07248).
+You can import request collection via Postman (import button) by link https://www.getpostman.com/collections/a4077e650424ffa07248
 
 # Contacts
 Email: shepuhi404@gmail.com

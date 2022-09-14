@@ -13,6 +13,6 @@ This project was written using this  [guide](https://docs.microsoft.com/en-us/as
 You can import request collection via Postman (import button) by link https://www.getpostman.com/collections/a4077e650424ffa07248
 
 # Contacts
-Email: shepuhi404@gmail.com or shepuhin@yandex.ru
+Email: shepuhin@yandex.ru
 Telegram: @Pe3aTeJlb
 Or visit my [website](https://sites.google.com/view/pplosstudio/%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F)
